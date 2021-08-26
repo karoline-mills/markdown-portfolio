@@ -1,4 +1,4 @@
 ## My Favorite Things
-- Food
-- Video Games
-- Dogs
+1. Food
+2. Video Games
+3. Dogs
